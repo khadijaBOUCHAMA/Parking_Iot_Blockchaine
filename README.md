@@ -328,6 +328,3 @@ Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de
 
 ---
 
-⭐ **Si ce projet vous plaît, n'hésitez pas à lui donner une étoile !**
-
-📧 **Contact** : contact@parksync.io | 🌐 **Site Web** : [www.parksync.io](https://www.parksync.io)

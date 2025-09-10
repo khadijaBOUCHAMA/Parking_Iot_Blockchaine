@@ -1,0 +1,63 @@
+{
+  "network": "sepolia",
+  "timestamp": "2025-09-09T14:38:33.037Z",
+  "deployer": "0x4C1a1173d9d4c033d0956C31D495756100444Bf8",
+  "contracts": {
+    "ParkingSystem": {
+      "address": "0x8ab09ab8F310de6d5cBd4DCAD9b559Bff7C439e7",
+      "owner": "0x4C1a1173d9d4c033d0956C31D495756100444Bf8",
+      "oracle": "0x624c9666C4fA8A21F781eDc8C370CaEe4d709037",
+      "platformFee": "10"
+    },
+    "ParkingOracle": {
+      "address": "0x624c9666C4fA8A21F781eDc8C370CaEe4d709037",
+      "mainNode": "0x4C1a1173d9d4c033d0956C31D495756100444Bf8"
+    }
+  },
+  "testSpots": [
+    {
+      "spotId": 1,
+      "location": "A1",
+      "hourlyRate": "0.01"
+    },
+    {
+      "spotId": 2,
+      "location": "A2",
+      "hourlyRate": "0.01"
+    },
+    {
+      "spotId": 3,
+      "location": "A3",
+      "hourlyRate": "0.015"
+    },
+    {
+      "spotId": 4,
+      "location": "B1",
+      "hourlyRate": "0.01"
+    },
+    {
+      "spotId": 5,
+      "location": "B2",
+      "hourlyRate": "0.01"
+    },
+    {
+      "spotId": 6,
+      "location": "C1",
+      "hourlyRate": "0.008"
+    },
+    {
+      "spotId": 7,
+      "location": "C2",
+      "hourlyRate": "0.008"
+    },
+    {
+      "spotId": 8,
+      "location": "D1",
+      "hourlyRate": "0.02"
+    }
+  ],
+  "gasUsed": {
+    "ParkingSystem": "Estimation: ~2,500,000 gas",
+    "ParkingOracle": "Estimation: ~1,800,000 gas"
+  }
+}

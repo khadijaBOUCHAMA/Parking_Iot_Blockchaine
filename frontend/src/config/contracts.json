@@ -1,0 +1,22 @@
+{
+  "contracts": {
+    "ParkingSystem": {
+      "address": "0xe90C79538e0CeD3F631801125cea91c37F7eD86F",
+      "abi": "ParkingSystem.json"
+    },
+    "ParkingOracle": {
+      "address": "0x8773adf64D7E61aa78629BB9836A1Cb08bfCEd2d",
+      "abi": "ParkingOracle.json"
+    }
+  },
+  "network": {
+    "name": "sepolia",
+    "chainId": 11155111,
+    "rpcUrl": "https://sepolia.infura.io/v3/YOUR_INFURA_PROJECT_ID"
+  },
+  "testAccounts": {
+    "deployer": "0xYourDeployerAddress",
+    "oracle": "0xYourOracleAddress",
+    "admin": "0xYourAdminAddress"
+  }
+}

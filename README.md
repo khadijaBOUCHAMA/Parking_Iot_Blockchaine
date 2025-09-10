@@ -319,12 +319,6 @@ npm run test:e2e
 
 Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de détails.
 
-## 👥 Équipe
-
-- **Développeur Principal** : [Votre Nom]
-- **Designer UI/UX** : [Nom du Designer]
-- **Expert Blockchain** : [Nom de l'Expert]
-- **Spécialiste IoT** : [Nom du Spécialiste]
 
 ## 🙏 Remerciements
 
